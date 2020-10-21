@@ -94,5 +94,7 @@ The project envolves deploying ELK stack on Azure Platform leveraging the Docker
 - Using two different NSGs will ensure the seperation of the actual WEb traffic and ELK traffic.
 - All the containers are deployed through Ansible Container to ensure minimal access requirement to the actual VMs.
 
+---
+
   
     
